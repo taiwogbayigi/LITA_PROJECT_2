@@ -32,7 +32,7 @@ Key metric including average subscription duration.
 
 Excel-based reports to track trends in renewals and cancellations.
 
-
+<img width="607" alt="p2excel4" src="https://github.com/user-attachments/assets/11565138-9ff3-4acd-a1ef-1ce290654474">
 
 ## SQL Data Analysis
 
