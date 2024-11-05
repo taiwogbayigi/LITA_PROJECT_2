@@ -102,17 +102,17 @@ group by Canceled
 Dashboard Creation: Designed an interactive Power BI dashboard to visualize the key insights derived from the Excel and SQL analysis.
 
 ### Visualization Elements
-1. Sales overview, including total revenue, regional breakdown, and monthly sales trends.
-2. Top-performing products, showcasing products with the highest sales.
-3. Regional sales performance, allowing for in-depth comparison between different regions.
+1. Customer segments based on region, subscription type, and cancellation history.
+2. Key performance metrics, such as average subscription duration and revenue by subscription type.
+3. Slicers for filtering data by region and subscription type.
 
 ### Deliverables
 
-<img width="728" alt="p1pbix" src="https://github.com/user-attachments/assets/b0740f89-bc53-4800-bfdd-8b7928a867b4">
-   
+<img width="730" alt="p2pbix" src="https://github.com/user-attachments/assets/27bfdafa-8f9c-4a07-aef0-859839ee501e">
+
 ## Key Takeaways 
-1. Data Exploration: Gained hands-on experience in exploring and preparing retail sales data for analysis.
-2. SQL & Data Querying: Developed and optimized SQL queries for extracting critical business insights from large datasets.
-3. Data Visualization: Built an interactive Power BI dashboard to present and share findings with stakeholders in a visually compelling manner.
+1. Customer Segmentation: Developed a deep understanding of customer behavior, including trends in subscription durations, cancellations, and renewals.
+2. SQL & Data Querying: Enhanced SQL skills by writing complex queries to extract actionable insights from customer data, such as identifying at-risk customers or understanding regional differences.
+3. Data Visualization: Built an interactive Power BI dashboard to effectively communicate key insights and allow for on-demand analysis.
    
-This project demonstrates my ability to perform end-to-end data analysis, from raw data exploration to advanced SQL querying and creating interactive dashboards to drive business decisions. The insights generated through this analysis can help a retail store optimize its sales strategies and improve overall performance.
+This project demonstrates my ability to analyze customer data for a subscription-based service, uncovering valuable insights into customer behavior, subscription patterns, and cancellation trends. By combining Excel, SQL, and Power BI, I was able to generate a comprehensive, data-driven understanding that can inform decision-making and strategic planning for subscription-based services.
